@@ -1,0 +1,3 @@
+C:/Users/Acer/Documents/proiecte/TADdictionar/cmake-build-debug/CMakeFiles/TADdictionar.dir
+C:/Users/Acer/Documents/proiecte/TADdictionar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acer/Documents/proiecte/TADdictionar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
