@@ -1,0 +1,9 @@
+//
+// Created by ultra on 04.06.2023.
+//
+
+#ifndef TADDICTIONARORDONAT_TESTSCURT_H
+#define TADDICTIONARORDONAT_TESTSCURT_H
+
+void testAll();
+#endif //TADDICTIONARORDONAT_TESTSCURT_H
