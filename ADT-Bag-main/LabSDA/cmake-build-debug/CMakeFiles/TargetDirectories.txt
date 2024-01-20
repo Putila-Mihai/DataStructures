@@ -1,0 +1,3 @@
+/home/ultra/CLionProjects/LabSDA/cmake-build-debug/CMakeFiles/LabSDA.dir
+/home/ultra/CLionProjects/LabSDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ultra/CLionProjects/LabSDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
